@@ -1,9 +1,9 @@
 {
   "name": "package.json",
   "version": "1.0.1",
-  "description": "Homework Week 3 Activity",
+  "description": "Homework Activity",
   "main": "index.js",
-  "scripts": {
+  "scripts": { 
     "hello" : "node helloworld.js"
   },
   "keywords": [
